@@ -103,7 +103,7 @@ a:hover {
     border-bottom: 1px dashed #e74c3c;
 }
 
-/* アニメーション */
+/*Animation*/
 @keyframes fadeIn {
     from {
         opacity: 0;
