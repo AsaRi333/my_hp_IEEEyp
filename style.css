@@ -62,3 +62,7 @@ section h2 {
 .block ul li {
     list-style-type: disc;
 }
+
+.red-text {
+    color: red;
+}
